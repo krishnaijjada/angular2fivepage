@@ -5,6 +5,8 @@
 <body ng-app="myApp">
 {{color}}
 
+Something
+
 <div ng-controller="mycontroller">
 {{color}}
 </div>
